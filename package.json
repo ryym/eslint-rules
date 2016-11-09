@@ -1,0 +1,17 @@
+{
+  "name": "eslint-rules",
+  "version": "0.0.0",
+  "description": "CLI to list up enabled ESLint rules for a specific file",
+  "author": "ryym <ryym.64@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint"
+  ],
+  "main": "index.js",
+  "bin": {
+    "eslint-rules": "./bin/eslint-rules"
+  },
+  "dependencies": {
+    "eslint": "^3.9.1"
+  }
+}
